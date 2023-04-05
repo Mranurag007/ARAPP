@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927715591132",
+    "project_id": "eduapp-d08cd",
+    "storage_bucket": "eduapp-d08cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927715591132:android:013575c790c7af94fdc519",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927715591132-b6eljf059ej8gcenlcd50k4md530rvl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06KyB65fCfUEjKqde2ZeyXB4TTJLxbOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927715591132-b6eljf059ej8gcenlcd50k4md530rvl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
